@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="100px" >
+    	
+    	 <Button  
+     	    android:id="@+id/AddButton"  
+      	    android:layout_width="wrap_content"  
+  	        android:layout_height="wrap_content"  
+       	    android:text="@string/add"  
+            android:minHeight="92dp"  
+            android:textColor="#EB9100"
+            android:textSize="22dp" /> 
+        
+    	 <Button  
+    	    android:id="@+id/MinusButton"  
+     	    android:layout_width="wrap_content"  
+       	    android:layout_height="wrap_content"  
+       	    android:text="@string/minus"  
+      	    android:minHeight="92dp"  
+      	    android:textColor="#EB9100"
+      	    android:textSize="22dp" /> 
+        
+     	  <Button  
+      	    android:id="@+id/MultiplyButton"  
+      	    android:layout_width="wrap_content"  
+       	    android:layout_height="wrap_content"  
+      	    android:text="@string/multiply"  
+      	    android:minHeight="92dp"  
+      	    android:textColor="#EB9100"
+      	    android:textSize="22dp" /> 
+        
+     	  <Button  
+      	    android:id="@+id/DivideButton"  
+      	    android:layout_width="wrap_content"  
+       	    android:layout_height="wrap_content"  
+       	    android:text="@string/divide"  
+      	    android:minHeight="92dp" 
+      	    android:textColor="#EB9100"
+       	    android:textSize="22dp" /> 
+ 
+</LinearLayout>

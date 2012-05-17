@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="100px" >
+    
+    
+     
+     <EditText 
+         android:layout_height="wrap_content" 
+         android:inputType="number"
+         android:layout_width="200px" 
+         android:textColor="#EB9100"
+         android:id="@+id/number1" />
+     
+     <EditText 
+         android:layout_height="wrap_content" 
+         android:inputType="number"
+         android:layout_width="200px" 
+         android:textColor="#EB9100"
+         android:id="@+id/number2" />
+     
+     
+</LinearLayout>

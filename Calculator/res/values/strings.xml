@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Result =</string>
+    <string name="app_name">Calculator</string>
+    <item name="buffer" format="integer" type="integer">0</item>
+    <item name="modifier" format="integer" type="integer">0</item>
+    <string name="equal">=</string>
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">/</string>
+
+</resources>
